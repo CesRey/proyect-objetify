@@ -1,4 +1,7 @@
 #BlueJ package file
+dependency1.from=Biblioteca
+dependency1.to=Reproductor
+dependency1.type=UsesDependency
 editor.fx.0.height=738
 editor.fx.0.width=816
 editor.fx.0.x=275
@@ -13,7 +16,7 @@ package.editor.x=120
 package.editor.y=120
 package.frame.height=600
 package.frame.width=800
-package.numDependencies=0
+package.numDependencies=1
 package.numTargets=2
 package.showExtends=true
 package.showUses=true
